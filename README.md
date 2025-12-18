@@ -1,16 +1,32 @@
-## Hi there 👋
+# BubbleBunnyWeirdo
 
-<!--
-**BubbleBunnyWeirdo/BubbleBunnyWeirdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
+------
 
-Here are some ideas to get you started:
+### Design Engineering & Frontend Architecture
+Building performant, accessible interfaces and scalable design systems. Focused on the intersection of motion design and state management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+* **Frameworks:** React (Next.js), Vue 3, Svelte
+* **Styling:** TailwindCSS, Framer Motion, Styled Components
+* **Tools:** Figma, Radix UI, Storybook, Vite
+* **Testing:** Jest, Playwright
+
+---
+
+### Current Focus
+- Refactoring internal component libraries for WCAG 2.1 compliance.
+- Experimenting with Three.js for interactive data visualizations.
+- Optimizing Largest Contentful Paint (LCP) for high-traffic landing pages.
+
+---
+
+### Knowledge Sharing
+- Ask me about: Component composition patterns or CSS container queries.
+- Troubleshooting: Hydration errors and z-index hell.
+
+---
+
+> "Design is not just what it looks like and feels like. Design is how it works."
